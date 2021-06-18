@@ -1,1 +1,1 @@
-text2
+new line instead
