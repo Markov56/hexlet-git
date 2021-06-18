@@ -1,2 +1,0 @@
-Hello, worldl
-Bye, world
